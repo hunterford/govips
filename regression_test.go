@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/davidbyttow/govips"
+	"github.com/hunterford/govips"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

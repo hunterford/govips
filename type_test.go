@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/davidbyttow/govips"
+	"github.com/hunterford/govips"
 	"github.com/stretchr/testify/assert"
 )
 

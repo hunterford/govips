@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	vips "github.com/davidbyttow/govips"
+	vips "github.com/hunterford/govips"
 )
 
 var (
